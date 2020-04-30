@@ -4,3 +4,110 @@ source,name,description,g0v_db_rows,owners,tags,github_repos,homepage
 "manual","美國國會台灣觀測站",,"634","bruce","待確認","ACTtaiwan/us-tw-watch-site,ACTtaiwan/ustw-site",
 "manual","LikeCoin 讚賞公民共和國",,,"williamchong007","待確認","likecoin/likecoin,likecoin/dao,likecoin/LikeCoinButton-integration,likecoin/likecoin-button-sdk,likecoin/liker-land-browser-extension,likecoin/likecoin-wordpress,likecoin/likecoin-app,likecoin/likecoin-api-public",
 "manual","MyData Taiwan",,,"bafu","待確認","MyDataTaiwan/mylog14","https://www.mydata.org.tw"
+
+"awesome-g0v","The web site.",,,"g0v","g0v基礎建設","g0v/g0v.tw",https://github.com/g0v/g0v.tw
+"awesome-g0v","Logo & styles.",,,"g0v","g0v基礎建設","g0v/style-guide",https://github.com/g0v/style-guide
+"awesome-g0v","glyphs",,,"g0v","g0v基礎建設","g0v/glyph",https://github.com/g0v/glyph
+"awesome-g0v","common bootstrap theme and design guide for websites.",,,"g0v","g0v基礎建設","g0v/design-guide",https://github.com/g0v/design-guide
+"awesome-g0v","The hackathon portal based on [hackfoldr](http://hackfoldr.org/).",,,"g0v","g0v基礎建設","g0v/hack.g0v.tw",https://github.com/g0v/hack.g0v.tw
+"awesome-g0v","g0v Summit 台灣零時政府高峰會",,,"g0v","g0v基礎建設","g0v/summit.g0v.tw",https://github.com/g0v/summit.g0v.tw
+"awesome-g0v","Hackfoldr Editor",,"353","g0v","g0v基礎建設","g0v/hackeditr",https://github.com/g0v/hackeditr
+"awesome-g0v","Hackfoldr 2.0",,,"hackfoldr","g0v基礎建設","hackfoldr/hackfoldr-2.0",https://github.com/hackfoldr/hackfoldr-2.0
+"awesome-g0v","Hacktabl 協作比較表格",,,"g0v","g0v基礎建設","g0v/hacktabl",https://github.com/g0v/hacktabl
+"awesome-g0v","Dev-Env",,,"ronnywang","g0v基礎建設","ronnywang/dev-env",https://github.com/ronnywang/dev-env
+"awesome-g0v","Excel Data Tool",,,"g0v","g0v基礎建設","g0v/excel-data-tool",https://github.com/g0v/excel-data-tool
+"awesome-g0v","g0v hackpad 分析器",,,"g0v","g0v基礎建設","g0v/g0vTxT",https://github.com/g0v/g0vTxT
+"awesome-g0v","g0v project hub",,"355,287","g0v","g0v基礎建設","g0v/projectPool,g0v/project-hub-mockup,g0v/oh-my-hub,tka/ideapool",https://github.com/g0v/project-hub-mockup
+"awesome-g0v","g0v 新手村 8bit",,,"g0v","g0v基礎建設","g0v/g0village-8bit",https://github.com/g0v/g0village-8bit/
+"awesome-g0v","g0v.asia",,,"g0v","g0v基礎建設","g0v/g0v.asia",https://github.com/g0v/g0v.asia/
+"awesome-g0v","g0v.photos 自己的活動自己拍",,,"zbryikt","g0v基礎建設","zbryikt/g0vphotos",https://github.com/zbryikt/g0vphotos
+"awesome-g0v","g0v 專案 json 產生器  (g0v.json generator)",,,"poga","g0v基礎建設","poga/metadata-editor",https://github.com/poga/metadata-editor
+"awesome-g0v","g0v issue 搜尋器",,,"g0v","g0v基礎建設","g0v/issue_aggregator",https://github.com/g0v/issue_aggregator
+"awesome-g0v","g0v授權中心",,,"g0v","g0v基礎建設","g0v/moc-license-center",https://github.com/g0v/moc-license-center
+"awesome-g0v","g0v開放授權小幫手",,,"g0v","g0v基礎建設","g0v/cchelper",https://github.com/g0v/cchelper
+"awesome-g0v","g0v開發資訊",,,"g0v","g0v基礎建設","g0v/dev",https://github.com/g0v/dev
+"awesome-g0v","g0v零時資料中心",,,"g0v","g0v基礎建設","g0v/dkan-core",https://github.com/g0v/dkan-core
+"awesome-g0v","g0v導覽小精靈",,,"g0v","g0v基礎建設","g0v/g0v-tour-guide",https://github.com/g0v/g0v-tour-guide/
+"awesome-g0v","斧頭幫大挑戰",,,"ronnywang","g0v基礎建設","ronnywang/axe.g0v.tw",https://github.com/ronnywang/axe.g0v.tw
+"awesome-g0v","逐字稿工具",,,"jessy1092","g0v基礎建設","jessy1092/coVerbatim",https://github.com/jessy1092/coVerbatim/
+"awesome-g0v","短講計時器",,,"zbryikt","g0v基礎建設","zbryikt/quick-timer",https://github.com/zbryikt/quick-timer/
+"awesome-g0v","零時黑板 (UI)",,,"g0v","g0v基礎建設","g0v/goban,bestian/goban",https://github.com/g0v/goban
+"awesome-g0v","行政院法規線上諮詢系統 界面 2.0",,,"g0v","開放資料,開放政府,法制與政府組織","g0v/react.vtaiwan.tw",https://github.com/g0v/react.vtaiwan.tw
+"awesome-g0v","匯流五法：線上徵詢",,,"g0v","開放資料,開放政府,法制與政府組織","g0v/dc.vtaiwan.tw",https://github.com/g0v/dc.vtaiwan.tw
+"awesome-g0v","台灣法院判決書可分享網址產生器",,,"ronnywang","開放資料,開放政府,法制與政府組織","ronnywang/judicial-easyer",https://github.com/ronnywang/judicial-easyer
+"awesome-g0v","法規亦毒氣",,,"g0v","開放資料,開放政府,法制與政府組織","g0v/laweasyread-front,g0v/laweasyread",https://github.com/g0v/laweasyread-front
+"awesome-g0v","貪污判決與查詢網站",,"241,230","superChing","開放資料,開放政府,法制與政府組織","superChing/extract_declared_sentence",https://github.com/superChing/extract_declared_sentence
+"awesome-g0v","行政院法規線上諮詢系統",,,"g0v","開放資料,開放政府,法制與政府組織","g0v/vtaiwan.tw",https://github.com/g0v/vtaiwan.tw
+"awesome-g0v","政府通訊錄分析器",,,"g0v","開放資料,開放政府,法制與政府組織","g0v/addressbook.parser",https://github.com/g0v/addressbook.parser
+"awesome-g0v","公務人員出國考察追蹤網",,"104","g0v","開放資料,開放政府,法制與政府組織","g0v/abroadplay",https://github.com/g0v/abroadplay
+"awesome-g0v","台灣內閣變化",,,"ronnywang","開放資料,開放政府,法制與政府組織","ronnywang/taiwan-cabinet",https://github.com/ronnywang/taiwan-cabinet
+"awesome-g0v","中央政府總預算",,,"g0v","開放資料,開放政府,課責","g0v/twbudget",https://github.com/g0v/twbudget
+"awesome-g0v","各年度各縣市總預算視覺",,,"kiang","開放資料,開放政府,課責","kiang/dgbas.gov.tw",https://github.com/kiang/dgbas.gov.tw
+"awesome-g0v","立委聯絡資訊",,,"g0v","開放資料,開放政府,課責","g0v/ly-tel",https://github.com/g0v/ly-tel
+"awesome-g0v","立委投票指南",,"160,138,81","g0v","開放資料,開放政府,課責","g0v/twly-voter-guide",https://github.com/g0v/twly-voter-guide
+"awesome-g0v","2016大選區域立委圖",,,"tommy87166","開放資料,開放政府,課責","tommy87166/tommy87166.github.io",https://github.com/tommy87166/tommy87166.github.io
+"awesome-g0v","台灣各種組織不推薦立委名單",,,"soidid","開放資料,開放政府,課責","soidid/soidid.github.io",https://github.com/soidid/soidid.github.io
+"awesome-g0v","台灣選舉黃頁",,,"kiang","開放資料,開放政府,課責","kiang/elections",https://github.com/kiang/elections
+"awesome-g0v","政黨票計算機",,,"g0v","開放資料,開放政府,課責","g0v/partyvote2016",https://github.com/g0v/partyvote2016
+"awesome-g0v","國會大代誌",,"447","g0v","開放資料,開放政府,課責","g0v/ly.g0v.tw",https://github.com/g0v/ly.g0v.tw
+"awesome-g0v","立法卡到陰",,,"frank00125","開放資料,開放政府,課責","frank00125/wp2014s_final_project",https://github.com/frank00125/wp2014s_final_project
+"awesome-g0v","立院影城",,,"g0v","開放資料,開放政府,課責","g0v/ivod.ly.g0v.tw",https://github.com/g0v/ivod.ly.g0v.tw
+"awesome-g0v","2014九合一選舉開票結果",,,"ctiml","開放資料,開放政府,課責","ctiml/vote2014,ronnywang/vote2014",https://github.com/ctiml/vote2014
+"awesome-g0v","50天50張選舉圖表",,,"g0v","開放資料,開放政府,課責","g0v/5050,g0v/d3visualization",https://github.com/g0v/5050
+"awesome-g0v","民代地圖",,,"g0v","開放資料,開放政府,課責","g0v/mapView",https://github.com/g0v/mapView
+"awesome-g0v","選票成份分析系統",,"170,145,130,98,82,71,13","g0v","開放資料,開放政府,課責","g0v/congress-vote-analytics",https://github.com/g0v/congress-vote-analytics
+"awesome-g0v","金錢報",,,"g0v","開放資料,開放政府,課責","g0v/sunshine.cy,fuyei/cf-viz,chungheng/g0v,ronnywang/campaign-finance.g0v.ronny.tw,ronnywang/tw-campaign-finance,ctiml/campaign-finance.g0v.ctiml.tw",https://github.com/g0v/sunshine.cy
+"awesome-g0v","議員投票指南",,"160,138,81","g0v","開放資料,開放政府,課責","g0v/councilor-voter-guide",https://github.com/g0v/councilor-voter-guide
+"awesome-g0v","2014台北市議員參選人",,,"councilor2014","開放資料,開放政府,課責","councilor2014/councilor2014.github.io",https://github.com/councilor2014/councilor2014.github.io
+"awesome-g0v","台南市議會 議員觀測中心",,,"kiang","開放資料,開放政府,課責","kiang/tncc",https://github.com/kiang/tncc
+"awesome-g0v","政治承諾追蹤網",,"253,223,211","g0v","開放資料,開放政府,課責","g0v/ppt",https://github.com/g0v/ppt
+"awesome-g0v","台灣隨機統計",,,"g0v","開放資料,開放政府,政府運作","g0v/twstat",https://github.com/g0v/twstat/
+"awesome-g0v","公有地大行動 Publicly Owned Property on Fire",,,"g0v","開放資料,開放政府,政府運作","g0v/POPonFire",https://github.com/g0v/POPonFire
+"awesome-g0v","台北市公有地資料與地圖 Publicly Owned Property",,,"dz1984","開放資料,開放政府,政府運作","dz1984/taipei-pop",https://github.com/dz1984/taipei-pop
+"awesome-g0v","台北市建管處建照記錄",,,"cades","開放資料,開放政府,政府運作","cades/taipei-building-has-reward",https://github.com/cades/taipei-building-has-reward
+"awesome-g0v","台灣地址門牌查詢",,,"g0v","開放資料,開放政府,政府運作","g0v/TWDoorplates",https://github.com/g0v/TWDoorplates
+"awesome-g0v","台灣行政區視覺化",,,"g0v","開放資料,開放政府,政府運作","g0v/twgeojson",https://github.com/g0v/twgeojson
+"awesome-g0v","地址轉經緯度",,,"ronnywang","開放資料,開放政府,政府運作","ronnywang/taiwan-address-lookup",https://github.com/ronnywang/taiwan-address-lookup
+"awesome-g0v","政府開放資料平臺備份",,,"ronnywang","開放資料,開放政府,政府運作","ronnywang/data.g0v.ronny.tw",https://github.com/ronnywang/data.g0v.ronny.tw
+"awesome-g0v","開放資料建立與普查",,,"g0v","開放資料,開放政府,政府運作","g0v/local.data",https://github.com/g0v/local.data
+"awesome-g0v","NGO list retreieved from judicial.gov.tw.",,,"g0v","開放資料,開放政府,政府運作","g0v/foundationtw",https://github.com/g0v/foundationtw
+"awesome-g0v","植物疫情與藥劑查詢系統",,,"g0v","開放資料,開放政府,公共安全","g0v/agriculture",https://github.com/g0v/agriculture
+"awesome-g0v","零時空污觀測網",,"343","immortalmice","開放資料,開放政府,公共安全","immortalmice/Real-time-Air-Quality-Map",https://github.com/immortalmice/Real-time-Air-Quality-Map
+"awesome-g0v","環境儀表板",,"76","g0v","開放資料,開放政府,公共安全","g0v/env.g0v.tw",https://github.com/g0v/env.g0v.tw
+"awesome-g0v","賽豬公上太空",,,"jimyhuang","開放資料,開放政府,公共安全","jimyhuang/twlandsat-browse",https://github.com/jimyhuang/twlandsat-browse
+"awesome-g0v","車禍熱點",,"242","Drainet","開放資料,開放政府,公共安全,公營服務","Drainet/cacci-opendata",https://github.com/Drainet/cacci-opendata
+"awesome-g0v","路見不平",,"37","g0v","開放資料,開放政府,公營服務","g0v/roadpin",https://github.com/g0v/roadpin
+"awesome-g0v","國道一號電子收費價錢試算",,,"zbryikt","開放資料,開放政府,公營服務","zbryikt/visualize",https://github.com/zbryikt/visualize
+"awesome-g0v","台中市公車地圖",,,"g0v","開放資料,開放政府,公營服務","g0v/tcbus",https://github.com/g0v/tcbus
+"awesome-g0v","台北捷運各站出站人數變化圖",,,"zbryikt","開放資料,開放政府,公營服務","zbryikt/visualize",https://github.com/zbryikt/visualize/tree/gh-pages/mrt
+"awesome-g0v","Cancer 台灣癌症資料專案",,,"g0v","開放資料,開放政府,公營服務","g0v/cancer",https://github.com/g0v/cancer
+"awesome-g0v","福利請聽",,"35","g0v","開放資料,開放政府,公營服務","g0v/listening",https://github.com/g0v/listening
+"awesome-g0v","台灣村里家戶用電量",,,"ronnywang","開放資料,開放政府,公營服務","ronnywang/ecolife.epa.gov.tw",https://github.com/ronnywang/ecolife.epa.gov.tw
+"awesome-g0v","台灣鉛管分佈地圖",,,"kiang","開放資料,開放政府,公營服務","kiang/lead_pipes",https://github.com/kiang/lead_pipes
+"awesome-g0v","全國醫院急診即時看板",,,"g0v","開放資料,開放政府,公營服務","g0v/er.mohw",https://github.com/g0v/er.mohw
+"awesome-g0v","高雄地下管線地圖",,,"zbryikt","開放資料,開放政府,公營服務","zbryikt/visualize",https://github.com/zbryikt/visualize
+"awesome-g0v","飲水地圖",,,"teia-tw","開放資料,開放政府,公營服務","teia-tw/drinking_water",https://github.com/teia-tw/drinking_water
+"awesome-g0v","都委會會議紀錄資料庫",,,"g0v","開放資料,開放政府,公營服務","g0v/urbancode-commission",https://github.com/g0v/urbancode-commission
+"awesome-g0v","國臺對照活用辭典",,,"g0v","開放資料,開放政府,公營服務","g0v/koktai",https://github.com/g0v/koktai
+"awesome-g0v","新台語·運動",,,"g0v","開放資料,開放政府,公營服務","g0v/itaigi",https://github.com/g0v/itaigi
+"awesome-g0v","萌典網站及應用程式",,,"g0v","開放資料,開放政府,公營服務","g0v/moedict-app",https://github.com/g0v/moedict-app
+"awesome-g0v","教育部重編國語辭典 資料檔",,,"g0v","開放資料,開放政府,公營服務","g0v/moedict-data",https://github.com/g0v/moedict-data
+"awesome-g0v","臺灣閩南語常用詞辭典 資料檔",,,"g0v","開放資料,開放政府,公營服務","g0v/moedict-data-twblg",https://github.com/g0v/moedict-data-twblg
+"awesome-g0v","臺灣客家語常用詞辭典 資料檔",,,"g0v","開放資料,開放政府,公營服務","g0v/moedict-data-hakka",https://github.com/g0v/moedict-data-hakka
+"awesome-g0v","中華語文知識庫 資料檔",,,"g0v","開放資料,開放政府,公營服務","g0v/moedict-data-csld",https://github.com/g0v/moedict-data-csld
+"awesome-g0v","萌典閃卡",,,"g0v","開放資料,開放政府,公營服務","g0v/moedict-dodo",https://github.com/g0v/moedict-dodo
+"awesome-g0v","零時字引",,,"g0v","開放資料,開放政府,公營服務","g0v/z0y",https://github.com/g0v/z0y
+"awesome-g0v","阿美語萌典",,"643,568,556,525,485,468,451,418,407,383,313,285,260,169","g0v","開放資料,開放政府,公營服務","g0v/moedict-app,miaoski/amis-safolu,miaoski/amis-francais",https://github.com/g0v/moedict-app/tree/amis
+"awesome-g0v","萌典字宙反應爐",,,"audreyt","開放資料,開放政府,公營服務","audreyt/moe",https://github.com/audreyt/moe
+"awesome-g0v","國科會計畫補助學校金額",,,"g0v","開放資料,開放政府,公營服務","g0v/nsc-projects",https://github.com/g0v/nsc-projects
+"awesome-g0v","勞工薪資預算程式",,,"kiang","開放資料,開放政府,經濟活動","kiang/salary",https://github.com/kiang/salary
+"awesome-g0v","69K薪水工作查詢",,,"g0v","開放資料,開放政府,經濟活動","g0v/i69",https://github.com/g0v/i69/
+"awesome-g0v","求職小幫手",,"467","ronnywang","開放資料,開放政府,經濟活動","ronnywang/jobhelper,nansenat16/jobhelper-mobile,yisheng-liu/jobhelper_ff,nansenat16/jobhelper-ie",https://github.com/ronnywang/jobhelper
+"awesome-g0v","你被服貿了嗎？",,"50","g0v","開放資料,開放政府,經濟活動","g0v/tisa-map",https://github.com/g0v/tisa-map
+"awesome-g0v","自經區立法辯論比較表",,,"fepztw","開放資料,開放政府,經濟活動","fepztw/fepztw.github.io",https://github.com/fepztw
+"awesome-g0v","開放標案",,,"mlwmlw","開放資料,開放政府,經濟活動","mlwmlw/pcc",https://github.com/mlwmlw/pcc
+"awesome-g0v","台灣公司登記資料",,,"ronnywang","開放資料,開放政府,經濟活動","ronnywang/twcompany",https://github.com/ronnywang/twcompany
+"awesome-g0v","台灣公司關係圖",,,"ronnywang","開放資料,開放政府,經濟活動","ronnywang/company-graph",https://github.com/ronnywang/company-graph
+"awesome-g0v","台灣社團(財團)法人資料檢索",,,"g0v","開放資料,開放政府,經濟活動","g0v/foundationtw",https://github.com/g0v/foundationtw
+"awesome-g0v","國民黨黨產地圖",,,"billy3321","開放資料,開放政府,經濟活動","billy3321/billy3321.github.io",https://github.com/billy3321/billy3321.github.io
+"awesome-g0v","農作物開放資料",,"277","a0726h77","開放資料,開放政府,經濟活動","a0726h77/open_crops",https://github.com/a0726h77/open_crops
