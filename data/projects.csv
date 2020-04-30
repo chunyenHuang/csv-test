@@ -145,3 +145,55 @@ source,name,description,g0v_db_rows,owners,tags,github_repos,homepage
 "awesome-g0v","公眾人物關係圖產生器",,"18,8","zbryikt","新媒體","zbryikt/ppllink",https://github.com/zbryikt/ppllink
 "awesome-g0v","公民記者證產生器",,,"g0v","新媒體","g0v/reporter",https://github.com/g0v/reporter
 "awesome-g0v","新聞小幫手",,"406,45","g0v","新媒體","g0v/newshelper-backend,g0v/newshelper-extension,yllan/newshelper-safari",https://github.com/g0v/newshelper-backend
+
+"g0v_db","0 時動議 LINK TOPIC",,"3","clkao,kcwu,hychen","媒體",,
+"g0v_db","11/9 Summit unconference懶人包",,"156","ipa","g0v Summit",,"https://g0v.hackpad.com/unconference--UQVESB4TJm3"
+"g0v_db","2015 WWViews ＠ TW 跨國審議/投票系統專案",,"232","家華","環境",,"https://g0v.hackpad.com/2015-WWViews-TW--W6l1GtZ3l1A"
+"g0v_db","2015 summer of ?",,"206","Ly","法律",,"https://speakerdeck.com/yhsiang/2015-summer-of"
+"g0v_db","2016 總統大選承諾一覽表",,"274,252","MrOrz","監督,政治",,"http://beta.hackfoldr.org/president2016-folder"
+"g0v_db","2018縣市長選舉地圖",,"473","積木","政治,選舉,地圖",,"https://hackmd.io/GwDghgJhCmEKwFpogsBAWAzHaCCcATCAOwIAMeYARnAIwTHrpUBmQA=="
+"g0v_db","2020投票指南",,"594","邦宇","選舉,政治",,"https://www.figma.com/file/JUzNk4lDjWAKiHea6vH9lfxF/%E6%8A%95%E7%A5%A8%E6%8C%87%E5%8D%97?node-id=500%3A192"
+"g0v_db","228事件資料掃描檔文字化",,"515","紅雨","轉型正義",,"https://hackmd.io/GYU0UFBSRaqLsn16uGhkgA"
+"g0v_db","404兒少協尋專案",,"27","ctf","兒少",,"https://docs.google.com/document/d/1DmBXSmYh1knJk6U3zP5T_6QAWa6AhNXosVi0ENydzdQ/edit"
+"g0v_db","404失蹤兒童協尋計畫",,"16","ET Blue","兒少",,"https://github.com/g0v/dev/wiki/Project-ChildNotFound.tw"
+"g0v_db","64995公益律師呼叫系統",,"42","Isabel","法律",,
+"g0v_db","ARThon",,"557","李紫彤","待確認",,
+"g0v_db","Akoma Ntoso台灣在地化計畫",,"427","雨蒼","法律,國會",,"https://hackmd.io/EYZgZgxgjATAHAFgLQgSArEhBOAbBJAQzF0KRnXQFMAGOGBGgdioSA==?view"
+"g0v_db","BBC 拍攝",,"592","BBC","媒體,紀錄",,
+"g0v_db","BatDrone（婦幼治安犯罪危險地點提醒、監測）",,"262","kevinphy","兒少",,"https://g0v.hackpad.com/BatDrone--BB8UPY6SPCD"
+"g0v_db","Build Great Bridges Around Taiwan (BGBAT)",,"419","Jane 汪","政策",,"http://tinyurl.com/bgbatpdfjune"
+"g0v_db","CC0 繁中語料 & Common Voice 語音庫 omt: 代名詞貼紙",,"609","Irvin","待確認",,"slack #rand0m"
+"g0v_db","COSCUP野生官網",,"235","ETBlue","開放文化",,"https://g0v.hackpad.com/COSCUP-2015--WxxpYVpXOWA"
+"g0v_db","Child Not Found",,"4","ETBlue,?","兒少",,
+"g0v_db","Children Image",,"99","小天","兒少",,"https://docs.google.com/document/d/1znrHAtJEdW3mMX3pN2n60nYjbPsDCIuldgDi8FoPWKI/edit"
+"g0v_db","Code for Japan(Nanto) 開放資料新手村桌遊中文版",,"474","子魚","待確認",,"https://g0v.hackpad.tw/Code-for-JapanNanto--qIrL0tB5POF"
+"g0v_db","DAOJO 道場",,"499","nchild","待確認",,"https://g0v.hackpad.tw/daojo"
+"g0v_db","Data + Design 資料＋設計 正體中文版翻譯",,"264","nchild","翻譯",,"bit.ly/data-design-zh"
+"g0v_db","Dear Airlines",,"523","Sleep No More","待確認",,"http://x.co/aircn"
+"g0v_db","Debater 編輯小幫手 browser plugin",,"333","ETBlue","工具",,"https://g0v.hackpad.com/Debater--vjeJIZ8onSY"
+"g0v_db","Emoji再來一次之送素還真進Unicode",,"365","Bobby Tung","藝術,工具",,"https://g0v.hackpad.com/Emoji-YPkxkHyGz97"
+"g0v_db","Excel 小工具",,"303","ronny","工具",,"https://g0v.hackpad.com/Excel--jkpco57DjJH"
+"g0v_db","FB帳號陣亡者聯盟",,"452","Even","待確認",,"https://hackmd.io/OwNgLAzMCM0KYFoAMSCcIFgGYmgghrBAhACapb4AcWVAxhKkkA"
+"g0v_db","Foodsharing Taiwan - foodsharing tool",,"422","Stefan Simon","剩食",,"https://www.facebook.com/foodsharingtaiwan"
+"g0v_db","GroovIM",,"17","Mindos","待確認",,"https://hackpad.com/DBKDLhwKiA4"
+"g0v_db","Guild Wars 2 Inventory",,"293","ETBlue","工具",,"https://g0v.hackpad.com/Guild-Wars-2-Inventory-NcrQirRU18O"
+"g0v_db","HackMD UI/UX 改善案",,"350","jackycute","工具",,"http://youtu.be/BGvr-s3EDKI"
+"g0v_db","HackStory",,"381","劉李","媒體",,"https://g0v.hackpad.com/HackStory-6svktTYKVLb"
+"g0v_db","HackStory共筆時間軸",,"379","劉李(night17x)","媒體",,"https://g0v.hackpad.com/HackStory-6svktTYKVLb"
+"g0v_db","HackingMap DEMO",,"481","unknown","待確認",,"https://g0v.github.io/HackingMap"
+"g0v_db","Herstory in East Asia / 東亞女權運動時間地圖",,"640","ael","待確認",,"https://g0v.hackmd.io/EYSWYz8ZRB2oN6RHrVNf5g?both"
+"g0v_db","How Well Do You Know About China?",,"489","Brian","待確認",,
+"g0v_db","ICO 資訊揭露平台",,"537","GITA","待確認",,"https://g0v.hackpad.tw/ICO-transparency-platform-TqFhFwXrI4h"
+"g0v_db","InternLens 實習透視鏡，全台最透明的實習資訊平台",,"401","kjohn","勞動",,"https://quip.com/jUL9AOFMHDST"
+"g0v_db","IoT 空污偵測",,"259","miaoski","環境,空汙",,"https://g0v.hackpad.com/IoT-DIY-B1xkj9fUqqH"
+"g0v_db","IssueTaiwan 台灣好問題",,"271","nicky","監督",,"https://g0v.hackpad.com/IssueTaiwan--OCelk22n02v"
+"g0v_db","JSonView(Android快速開發OPenData)",,"430","Hsu Weiyen","工具",,"goo.gl/EfyZ5n"
+"g0v_db","Kialo 台灣政治迷你維基百科",,"615","allenlinli","待確認",,"https://g0v.hackpad.tw/Ptt--ctwZwU7BxcJ"
+"g0v_db","LINE BOT 市容幫手",,"606","Pamela","待確認",,"https://beta.hackfoldr.org/cityscape_helper"
+"g0v_db","M Project",,"188","a0kman","待確認",,"http://hackfoldr.org/mproject"
+"g0v_db","MT7688",,"290","Mindos","待確認",,
+"g0v_db","Mozilla Common Voice 語音資料庫收集",,"553","Irvin","開放資料",,"https://moztw.hackpad.tw/Common-Voice-g0v33"
+"g0v_db","NPO Lab 公益實驗室",,"226","Kenny","NPO lab",,"https://docs.google.com/document/d/1rKRk4ZL8ROpjeS23006tt61a71jJezbwPSIuEY8jOrY/edit?usp=sharing"
+"g0v_db","NT01 地球上的夢幻逸品線上型錄",,"601","cotton","環境",,
+"g0v_db","News Diff 來看看新聞改過了沒?",,"41","ronnywang","媒體",,"https://github.com/ronnywang/newsdiff"
+"g0v_db","Open Source Guide 翻譯坑",,"462","TypingMonkey","待確認",,"https://g0v.hackpad.tw/g0v-shadow-ta138sdLdND"
